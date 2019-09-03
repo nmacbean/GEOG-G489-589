@@ -7,7 +7,8 @@ Indiana University
 Fall 2019 Syllabus  
 
 Lecture: Monday & Wednesday 1:00 PM to 2:15 PM  
-Lecture Location: Student Building 221  
+Lecture Location: Student Building 221 
+
 Instructor: Dr. Natasha MacBean  
 Office: Student Building 204  
 Email: nmacbean@indiana.edu  
