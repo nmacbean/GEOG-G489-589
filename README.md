@@ -1,3 +1,3 @@
-# Welcome to GEOG-G440/540 Python Programming (Topics in Environmental Geography)
+# Welcome to GEOG-G489/589 Advanced Geospatial Data Analysis in Python
 
-These course notes are for the final assignments in the Python Programming Spring 2019 class
+These course notes are for the in-class exercises and assessments in the GEOG-G489/589.
