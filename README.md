@@ -1,6 +1,6 @@
 # Welcome to Indiana University GEOG-G489/589:  Advanced Geospatial Data Analysis in Python
 
-These course notes are for the in-class exercises and assessments in the GEOG-G489/589.
+These course notes are for the in-class exercises and assessments in GEOG-G489/589.
 
 Department of Geography  
 Indiana University  
