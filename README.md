@@ -2,9 +2,9 @@
 
 These course notes are for the in-class exercises and assessments in the GEOG-G489/589.
 
-Department of Geography 
-Indiana University
-Fall 2019 Syllabus
+Department of Geography  
+Indiana University  
+Fall 2019 Syllabus  
 
 Lecture: Monday & Wednesday 1:00 PM to 2:15 PM 
 Lecture Location: Student Building 221
