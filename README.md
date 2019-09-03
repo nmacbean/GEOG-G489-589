@@ -56,11 +56,6 @@ useful advice and documentation online. Within this community, new capabilities 
 
 I suggest you use the anaconda python distribution if you are using your own computer, but we can discuss options for installing on your own computer during class.
    
-Optional texts
-There are no required texts for this course. All the relevant material will be provided in the assignments on Canvas. When learning how to program there are often a lot of useful tutorials and websites with advice online. This is especially true for a freely available programming language such as Python. However, students may find the following textbooks useful. I will bring copies of these textbooks to class in the first few weeks so students can have a look and decide if they are worth buying themselves.
-• McKinney, W. (2012). Python for data analysis: Data wrangling with Pandas, NumPy, and IPython. O'Reilly Media, Inc.
-• Scopatz, A., & Huff, K. D. (2015). Effective computation in physics: Field guide to research with python. O'Reilly Media, Inc.
-
 ## Course Format and Grading
 **In-class exercises**: At the beginning of each class we will review the concepts that we will be covering during that class. This will include developing a logical argument for the algorithm we develop during the class. The algorithm is essentially the method, or set of methods, we will use to complete our programming task/data analysis. We will then discuss together the Python code needed to put that algorithm into an executable Python script. Following this group discussion, you will each get time to write the script in a Jupyter Notebook (a commonly used open-source application for writing and executing code). 
 
