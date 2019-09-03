@@ -1,14 +1,19 @@
 # Welcome to GEOG-G489/589: Advanced Geospatial Data Analysis in Python
 
 These course notes are for the in-class exercises and assessments in the GEOG-G489/589.
-Department of Geography Indiana University
+
+Department of Geography 
+Indiana University
 Fall 2019 Syllabus
-Lecture: Monday & Wednesday 1:00 PM to 2:15 PM Lecture Location: Student Building 221
+
+Lecture: Monday & Wednesday 1:00 PM to 2:15 PM 
+Lecture Location: Student Building 221
 Instructor: Dr. Natasha MacBean
 Office: Student Building 204
 Email: nmacbean@indiana.edu
 Office hours: Monday 12:00 PM to 1:00 PM and Wednesday 3:15 PM to 4:15 PM.
-Course description
+
+## Course description
 This course introduces students to the Python programming language and the Python skills needed to perform complex data analysis and data visualization with large spatiotemporal datasets (for example model simulations and remote sensing data).
 In the course we will learn how to install python and how to download the various packages we will use, as well as how to download the remote sensing, climate, and modeling datasets we may analyze. In the first part of the course we will review fundamental concepts in Python (e.g. data types, data structures, indexing, subsetting, looping over data) that will be useful for handling large volumes of data. Following that, we will cover the following data handling topics: reading and manipulating large, multi-layer spatio-temporal datasets, vector and raster data manipulation, map reprojection, area selection based on geographic coordinates, masking data, data visualization (including plotting maps). Finally, throughout the course we will cover the following data analyses on large geospatial datasets, including: applying basic statistics to large datasets (sub, mean, max, min), interpolation and smoothing, regression, function fitting for extracting information from time series data, change detection, image classification and spatial clustering, dimensionality reduction.
 Throughout, we will focus on developing the most fundamental and useful data science skills – such as cleaning and tidying data in preparation for data analysis, and elegant and efficient code writing – so that your code writing skills result in useful scripts that can be used in the future to repeat similar analyses on new scientific questions.
