@@ -6,12 +6,12 @@ Department of Geography
 Indiana University  
 Fall 2019 Syllabus  
 
-Lecture: Monday & Wednesday 1:00 PM to 2:15 PM 
-Lecture Location: Student Building 221
-Instructor: Dr. Natasha MacBean
-Office: Student Building 204
-Email: nmacbean@indiana.edu
-Office hours: Monday 12:00 PM to 1:00 PM and Wednesday 3:15 PM to 4:15 PM.
+Lecture: Monday & Wednesday 1:00 PM to 2:15 PM  
+Lecture Location: Student Building 221  
+Instructor: Dr. Natasha MacBean  
+Office: Student Building 204  
+Email: nmacbean@indiana.edu  
+Office hours: Monday 12:00 PM to 1:00 PM and Wednesday 3:15 PM to 4:15 PM  
 
 ## Course description
 This course introduces students to the Python programming language and the Python skills needed to perform complex data analysis and data visualization with large spatiotemporal datasets (for example model simulations and remote sensing data).
