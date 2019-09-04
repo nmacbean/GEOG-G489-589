@@ -18,9 +18,10 @@ Our in-class exercise today is to complete the following in a Jupyter Notebook (
 
 **Complete this exercise in a Jupyter Notebook with the title "*Your_Name* Exercise 2". Upload the jupyter notebook to Canvas by the beginning of next class - Monday 9th September at 1pm**
 
+&nbsp;
+&nbsp;
 
-
-#### Supplementary exercises:
+### Supplementary exercises:
 
 In the DataCamp tutorials last week and in today's class we have talked about methods for different data types. To better familiarize yourself, take a look at the supplementary exercises below.
 
