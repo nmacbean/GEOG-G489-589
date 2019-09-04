@@ -1,5 +1,7 @@
 # G489/589 Final Project Report and Code Instructions 
 
+**NOTE! The final project is due at 11:59pm on Sunday 15th December, 2019.**
+
 In the last four weeks of class you will complete your final project. The final submission will contain a written report (see rubric below) plus all the scripts you have used in your project in a Jupyter Notebook (with comments!). The aim of this project is to use many, if not all, of the Python libraries, methods and functions you have learned during this class. I expect you to go back over the assignments we have done to remind yourself of the methods used. You may find it helpful to fill in the Python Methods Table Template, which you can also find in the course GitHub repository in the “Final Project” folder (and in the Final Project assignment on Canvas).
 
 NOTE: We have learned three uses of coding: 1) cleaning/tidying your data and preparing it for analysis; 2) Exploratory data analysis; 3) analyzing the data (often using statistical methods) to answer a specific question about the patterns contained in the data and what we can learn from them. 
