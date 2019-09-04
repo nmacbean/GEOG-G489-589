@@ -16,7 +16,9 @@ Our in-class exercise today is to complete the following in a Jupyter Notebook (
   4. save the size information for the 4th person in a new file with a new name
   5. *Extra task if you are not new to python: sort based on height (and print answer)*
 
-**Complete this exercise in a Jupyter Notebook with the title "*Your_Name* Exercise 2". Upload the jupyter notebook to Canvas by the beginning of next class - Monday 9th September at 1pm**
+**Complete this exercise in a Jupyter Notebook with the title "*Your_Name* Exercise 2". Upload the jupyter notebook to Canvas by the beginning of next class - Monday 9th September at 1pm.** 
+
+**Good luck and feel free to ask me any questions or to work with others!**
 
 &nbsp;
 &nbsp;
