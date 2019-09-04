@@ -6,8 +6,9 @@ You can find out more about NumPy here: https://numpy.org
 
 First, we will go through the class notes together. You can find the powerpoint slides for the class in this "Exercise 2" folder.
 
-Our in-class exercise today is to complete the following in a Jupyter Notebook (with comments for each task!):
-* We have a file containing height and weight information for 10 people.
+### In-class exercise
+Our in-class exercise today is to complete the following in a Jupyter Notebook (with comments for each task!):  
+* We have a file containing height and weight information for 10 people.  
 * We want to perform the following tasks:
   1. open the file
   2. calculate mean height and mean weight for all 10 people (and print answer)
@@ -15,9 +16,11 @@ Our in-class exercise today is to complete the following in a Jupyter Notebook (
   4. save the size information for the 4th person in a new file with a new name
   5. *Extra task if you are not new to python: sort based on height (and print answer)*
 
+**Complete this exercise in a Jupyter Notebook with the title "*Your_Name* Exercise 2". Upload the jupyter notebook to Canvas by the beginning of next class - Monday 9th September at 1pm**
 
 
-### Supplementary exercises:
+
+#### Supplementary exercises:
 
 In the DataCamp tutorials last week and in today's class we have talked about methods for different data types. To better familiarize yourself, take a look at the supplementary exercises below.
 
