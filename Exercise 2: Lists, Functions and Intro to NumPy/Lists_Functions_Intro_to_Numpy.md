@@ -10,7 +10,7 @@ First, we will go through the class notes together. You can find the powerpoint 
 Our in-class exercise today is to complete the following in a Jupyter Notebook (with comments for each task!):  
 * We have a file containing height and weight information for 10 people.  
 * We want to perform the following tasks:
-  1. open the file
+  1. load the data
   2. calculate mean height and mean weight for all 10 people (and print answer)
   3. get the height and weight information for the 4th person
   4. save the size information for the 4th person in a new file with a new name
