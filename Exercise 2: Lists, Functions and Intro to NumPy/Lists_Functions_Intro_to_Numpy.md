@@ -6,7 +6,7 @@ You can find out more about NumPy here: https://numpy.org
 
 First, we will go through the class notes together. You can find the powerpoint slides for the class in this "Exercise 2" folder.
 
-### In-class exercise
+## In-class exercise
 Our in-class exercise today is to complete the following in a Jupyter Notebook (with comments for each task!):  
 * We have a file containing height and weight information for 10 people.  
 * We want to perform the following tasks:
