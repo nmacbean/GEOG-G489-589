@@ -4,6 +4,16 @@ In today's class we're going to go over some of the basic Python functionality y
 
 You can find out more about NumPy here: https://numpy.org
 
+First, we will go through the class notes together. You can find the powerpoint slides for the class in this "Exercise 2" folder.
+
+Our in-class exercise today is to complete the following in a Jupyter Notebook (with comments for each task!):
+* We have a file containing height and weight information for 10 people.
+* We want to perform the following tasks:
+  1. open the file
+  2. calculate mean height and mean weight for all 10 people (and print answer)
+  3. get the height and weight information for the 4th person
+  4. save the size information for the 4th person in a new file with a new name
+  5. *Extra task if you are not new to python: sort based on height (and print answer)*
 
 
 
