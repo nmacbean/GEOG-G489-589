@@ -1,4 +1,4 @@
-# Exercise 2: Python Lists, Functions/Methods and more in-depth NumPy
+# Exercise 3: Introduction to Matplotlib and more in-depth NumPy
 
 In today's class we're first going to go into a bit more depth on the NumPy package. Then we'll learn some of the basic plotting commands for data visualization in Python's Matplotlib plotting library
 
