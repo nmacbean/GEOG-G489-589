@@ -20,6 +20,20 @@ Our in-class exercise today is to complete the following in a Jupyter Notebook (
 * Give the plot axis labels and a title.  
 * *Don’t forget to use comments for each separate bit of code!*
 
+&nbsp;
+&nbsp;
+
+## EXTRA if you’re familiar with python or if you’re finding this too easy!
+* Google pyplot.bar() to see how to plot a bar plot in Matplotlib
+* Plot a bar plot for the 2017 (last year in the file) CO2 emissions of the first 10 countries in the file.
+* Change the xtick labels to the 10 country names.
+* Give the plot axis labels and a title.
+
+* *Question: which country from the list of the 1st 10 countries had the highest CO2 emissions in 2017?*
+
+
+&nbsp;
+&nbsp;
 
 **As you did for Exercise 2, complete this exercise in a Jupyter Notebook with the title "*Your_Name* Exercise 3". Upload the jupyter notebook to Canvas by the beginning of next class - Wednesday 11th September at 1pm.** 
 
