@@ -8,6 +8,7 @@ First, we will go through the class notes together. You can find the powerpoint 
 
 ## In-class exercise
 Our in-class exercise today is to complete the following in a Jupyter Notebook (with comments for each task!):  
+* First, download data.tar and untar it in your C:\username\Downloads\ folder.
 * Load a file called “CO2_emissions_Americas_1960-2017_nopound.txt”. 
 * Use slicing and indexing to separate out the country names (headers) from the 1st row. 
 * Use slicing and indexing to separate out the years. 
