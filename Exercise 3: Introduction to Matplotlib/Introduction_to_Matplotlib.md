@@ -23,7 +23,7 @@ Our in-class exercise today is to complete the following in a Jupyter Notebook (
 &nbsp;
 &nbsp;
 
-## EXTRA if you’re familiar with python or if you’re finding this too easy!
+### EXTRA if you’re familiar with python or if you’re finding this too easy!
 * Google pyplot.bar() to see how to plot a bar plot in Matplotlib
 * Plot a bar plot for the 2017 (last year in the file) CO2 emissions of the first 10 countries in the file.
 * Change the xtick labels to the 10 country names.
