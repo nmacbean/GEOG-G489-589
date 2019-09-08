@@ -13,12 +13,12 @@ Our in-class exercise today is to complete the following in a Jupyter Notebook (
 * Use slicing and indexing to separate out the years. 
 * Use slicing and indexing to separate out the CO2 data for all countries across the Americas.  
 * Explore your data! E.g:  
-Print out the array that contains your country names to see which countries are there and how they are spelt etc.
-Print the first 10-20 rows of the CO2 data for your chosen countries to see if there are any missing data – if so, set them to np.nan.
-Plot the 1960 – 2017 time series of CO2 emissions for 1 North American country, 1 Central American country and one South American country on the same plot with a legend! Change colors if you would like…
- How will you find the column index for each country?
-Give the plot axis labels and a title.
-Don’t forget to use comments for each separate bit of code!
+  * Print out the array that contains your country names to see which countries are there and how they are spelt etc.  
+  * Print the first 10-20 rows of the CO2 data for your chosen countries to see if there are any missing data – if so, set them to np.nan.  
+* Plot the 1960 – 2017 time series of CO2 emissions for 1 North American country, 1 Central American country and one South American country on the same plot with a legend! Change colors if you would like.  
+* **--> How will you find the column index for each country?**. 
+* Give the plot axis labels and a title.  
+* *Don’t forget to use comments for each separate bit of code!*
 
 
 **As you did for Exercise 2, complete this exercise in a Jupyter Notebook with the title "*Your_Name* Exercise 3". Upload the jupyter notebook to Canvas by the beginning of next class - Wednesday 11th September at 1pm.** 
