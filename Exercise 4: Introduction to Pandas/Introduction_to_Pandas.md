@@ -21,3 +21,10 @@ Our in-class exercise today is to complete the following in a Jupyter Notebook (
 * **What type of plot would we need if we wanted to see the relationship between “TA” (daily air temp.) and “VPD” (vapor pressure deficit)?**
 * Plot this plot with labels and a title
 
+
+### EXTRA if you’re familiar with python or if you’re finding this too easy!
+* Replot the plot you have just created, but change the size of the markers to be smaller and add a fine lined marker edge with a black edgecolor.
+* *What do you notice about the patterns in the data when you make the marker size smaller?*
+
+
+**That's it, you're finished! Remember to upload your .ipynb jupyter notebook to Canvas by the start of next class.**
