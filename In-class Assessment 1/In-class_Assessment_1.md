@@ -1,4 +1,4 @@
-## In-class Assessment 1 Instructions
+# In-class Assessment 1 Instructions
 
 1. Download the data.zip directory AND the "In-class Assessment 1.ipynb" jupyter notebook from the Course Canvas assignment page (or under "In-class Assessment 1" in the Files directory) or from the GitHub folder.
 
