@@ -14,4 +14,4 @@ Our in-class exercise today is to complete the following in a Jupyter Notebook (
 * Outside the loop, print out your total precipitation results for all sites.
 
 
-**That's it for today. Remember to upload your .ipynb jupyter notebook to Canvas by 5pm TOMORROW Tuesday 17th September **
+**That's it for today. Remember to upload your .ipynb jupyter notebook to Canvas by 5pm TOMORROW Tuesday 17th September**
