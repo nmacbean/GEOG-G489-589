@@ -10,4 +10,8 @@
 
 5. The exam will start at 1pm and will finish at 2:15pm.
 
+6. This is an open-book exam.
+
+7. Please work silently. You may not work with other students in the class.
+
 GOOD LUCK!
