@@ -10,7 +10,7 @@ Our in-class exercise today is to complete the following in a Jupyter Notebook (
 * Then loop over the files and…
 * Print the simple descriptive statistics for each site
 * Still within the loop, calculate (and save to a NumPy array) the total precipitation (column “P”) for each site
-* Which numpy command will we use for this?
+  * *Which numpy command will we use for this?*
 * Outside the loop, print out your total precipitation results for all sites.
 
 
