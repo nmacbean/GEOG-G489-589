@@ -1,4 +1,4 @@
-# Exercise 7: Introduction to Seaborn and string splitting
+# Exercise 7: Introduction to the netCDF4 library and NumPy masked arrays
 
 In today's class we're going to learn about Python's netCDF4 library for dealing with NetCDF files. Netcdf is a file format that supports large geospatial array-like data (find out more here: https://www.unidata.ucar.edu/software/netcdf/docs/). It is a commonly used format for global climate reanalyses (https://en.wikipedia.org/wiki/Meteorological_reanalysis), for climate/earth system model outputs, and for remote sensing products. 
 
