@@ -1,6 +1,6 @@
 # Exercise 5: Loops (and a bit more on Pandas)
 
-In today's class we're first going to learn about the for loop
+In today's class we're first going to learn about the for loop.
 First, we will go through the class notes together. You can find the powerpoint slides for the class in this "Exercise 5" folder.
 
 ## In-class exercise
