@@ -5,7 +5,7 @@ First, we will go through the class notes together. You can find the powerpoint 
 
 ## In-class exercise
 Our in-class exercise today is to complete the following in a Jupyter Notebook (with comments for each task!):  
-* Dowload data.zip --> it should contain all 4 files for the 4 Ameriflux sites
+* Download data.zip --> it should contain all 4 files for the 4 Ameriflux sites
 * Using what we have learned today in class, create a list of the files using glob
 * Then loop over the files and…
 * Print the simple descriptive statistics for each site
