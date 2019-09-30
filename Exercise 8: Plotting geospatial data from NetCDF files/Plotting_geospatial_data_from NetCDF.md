@@ -6,3 +6,9 @@ In today's class we're going to learn more about the netCDF4 library and how to 
 In our in-class exercise today, our objective is to do a quick exploratory plotting data analysis to see how GPP changes over the year. *How might we do this?*
 
 
+When you have completed the programming task, answer the following questions below:
+1. How does the GPP of the tropical regions change over the course of the year?
+2. How does the GPP in the northern hemisphere change over the course of the year?
+3. Bonus question: why do you think there is a difference in how much change occurs in the tropics and in the northern hemisphere? [Hint: think what GPP is representing - the uptake of CO2 by plants]
+
+**That's it for today. However, do not hand in this assignment. You will complete Part B of this in-class exercise on Wednesday before you hand it in.**
