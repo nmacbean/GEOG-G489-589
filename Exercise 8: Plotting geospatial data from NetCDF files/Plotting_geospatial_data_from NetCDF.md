@@ -5,6 +5,14 @@ In today's class we're going to learn more about the netCDF4 library and how to 
 ## In-class exercise
 In our in-class exercise today, our objective is to do a quick exploratory plotting data analysis to see how GPP changes over the year. *How might we do this?*
 
+To complete the task, set out the steps below in a Jupyter Notebook (with comments for each task!):  
+* Download data
+* Import all relevant libraries, including matplotlib for plotting
+* Open the netcdf file
+* Read in the GPP data
+* Close the netcdf file
+* Create a loop over and plot each of the the first 12 months of the data and within that loop use imshow to plot each month.
+* Answer the questions in the instructions on the Github page.
 
 When you have completed the programming task, answer the following questions below:
 1. How does the GPP of the tropical regions change over the course of the year?
