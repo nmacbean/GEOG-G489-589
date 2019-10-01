@@ -19,7 +19,7 @@ When you have completed the programming task, answer the following questions bel
 2. How does the GPP in the northern hemisphere change over the course of the year?
 3. Bonus question: why do you think there is a difference in how much change occurs in the tropics and in the northern hemisphere? [Hint: think what GPP is representing - the uptake of CO2 by plants]
 
-**That's it for today. However, do not hand in this assignment. You will complete Part B of this in-class exercise on Wednesday before you hand it in.**
+**That's it for today. However, do not hand in this assignment. You will complete Part B of this in-class exercise in the same Jupyter Notebook on Wednesday before you hand it in.**
 
 ## In-class exercise: Part B
 In the second part of the in-class exercise the task is to complete the following steps:
@@ -27,4 +27,4 @@ In the second part of the in-class exercise the task is to complete the followin
 * Plot the mean temporal GPP and add a colorbar and a plot title.
 * Then save the new mean GPP array to a netcdf file following the notes in class.
 
-**Once you have completed this task, upload both Parts A and B to Canvas before the start of next class**
+**Once you have completed this task, upload both your Jupyter Notebook and your saved netcdf file to Canvas before the start of next class**
