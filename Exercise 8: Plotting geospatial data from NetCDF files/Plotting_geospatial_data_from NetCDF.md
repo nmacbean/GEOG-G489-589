@@ -22,6 +22,9 @@ When you have completed the programming task, answer the following questions bel
 **That's it for today. However, do not hand in this assignment. You will complete Part B of this in-class exercise on Wednesday before you hand it in.**
 
 ## In-class exercise: Part B
-In the second part of the in-class exercise you will simply calculate the mean temporal GPP and then save the new mean GPP array to a netcdf file following the notes in class.
+In the second part of the in-class exercise the task is to complete the following steps:
+* Calculate the mean GPP over time
+* Plot the mean temporal GPP and add a colorbar and a plot title.
+* Then save the new mean GPP array to a netcdf file following the notes in class.
 
 **Once you have completed this task, upload both Parts A and B to Canvas before the start of next class**
