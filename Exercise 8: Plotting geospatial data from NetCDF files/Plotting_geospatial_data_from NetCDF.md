@@ -23,7 +23,7 @@ When you have completed the programming task, answer the following questions bel
 
 ## In-class exercise: Part B
 In the second part of the in-class exercise the task is to complete the following steps:
-* Calculate the mean GPP over time
+* Calculate the *total* GPP over time
 * Plot the mean temporal GPP and add a colorbar and a plot title.
 * Then save the new mean GPP array to a netcdf file following the notes in class.
 
