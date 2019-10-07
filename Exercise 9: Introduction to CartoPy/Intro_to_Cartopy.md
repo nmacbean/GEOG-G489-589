@@ -22,6 +22,7 @@ Our in-class exercise today is to complete the following in a Jupyter Notebook (
 ### EXTRA if you're familiar with Python or programming:
 * Create a latitudinal plot to compare the latitudinal distributions of GPP and SIF. 
 * For that you will need to sum all the data for each latitude (i.e. sum all the data for each row).
+* The GPP and SIF data have different units (therefore different values), so you will either need to plot the SIF on a different axis to the GPP or  you can scale or normalize both (e.g. to between zero and one) and plot them both on the same axis. (Or you can just plot the GPP alone).
 * The final product should look something like this (but with different data plotted):
 ![lat plot](latitudinal_plot.png)
 
