@@ -23,6 +23,6 @@ Our in-class exercise today is to complete the following in a Jupyter Notebook (
 * Create a latitudinal plot to compare the latitudinal distributions of GPP and SIF. 
 * For that you will need to sum all the data for each latitude (i.e. sum all the data for each row).
 * The final product should look something like this (but with different data plotted):
-
+![lat plot](latitudinal_plot.png)
 
 **That's it, you're finished! Upload your jupyter notebook to Canvas by the start of next class.**
