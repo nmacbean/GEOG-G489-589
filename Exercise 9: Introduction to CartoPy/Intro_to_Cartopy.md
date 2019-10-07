@@ -6,7 +6,7 @@ In today's class we're going to learn about the CartoPy Python library for plott
 ## In-class exercise
 We'll use what we have learned previously about reading data from NetCDF files and what we've learned today to perform visual analyses comparing the GPP dataset we used in the last class to satellite measurements of solar induced chlorophyll fluorescence (SIF). SIF is a byproduct of photosynthesis; therefore, it should be a good proxy for GPP.  
 
-The SIF data were collected from the GOME-2 satellite (https://www.eumetsat.int/website/home/Satellites/CurrentSatellites/Metop/MetopDesign/GOME2/index.html).
+The SIF data were collected from the GOME-2 satellite: https://www.eumetsat.int/website/home/Satellites/CurrentSatellites/Metop/MetopDesign/GOME2/index.html.
 
 The SIF data are in a different netcdf file called gome2_sif_monthly_2007-2011.nc. They have the same spatial and temporal resolution.
 
