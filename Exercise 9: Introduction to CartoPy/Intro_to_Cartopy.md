@@ -15,9 +15,9 @@ In our analysis we will use the SIF to evaluate if the model contains an accurat
 Our in-class exercise today is to complete the following in a Jupyter Notebook (with comments for each task!):  
 * Follow what we have learned in class over the past week or two to read in the GPP and SIF data and plot both datasets on two separate Cartopy maps with geospatial latitude and longitude coordinates on the x and y axes of the plot.
 * Write the logic (step-by-step) of the script you plan to write at the top in a markdown box
-* Then, answer the following questions in your Jupyter Notebook:
-*1. Do the spatial distributions of the mean GPP and mean SIF look similar, even though the range of each data is not the same?*
-*2. In which region is plant productivity the highest (give latitude and longitude information)? Is this what we may expect?*
+* Then, answer the following questions in your Jupyter Notebook:  
+1. *Do the spatial distributions of the mean GPP and mean SIF look similar, even though the range of each data is not the same?*
+2. *In which region is plant productivity the highest (give latitude and longitude information)? Is this what we may expect?*
 
 ### EXTRA if you're familiar with Python or programming:
 * Create a latitudinal plot to compare the latitudinal distributions of GPP and SIF. 
