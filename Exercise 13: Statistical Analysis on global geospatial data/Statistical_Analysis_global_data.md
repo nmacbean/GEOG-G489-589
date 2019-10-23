@@ -7,6 +7,7 @@ We will consider how to do this calculation in a more efficient way in a future 
 Think through the steps needed to carry out this task from the very first step of importing the libraries and write your algorithm step by step. Some tips:
 * You will create nested for loops to loop over both the rows and columns of the data.
 * You will need to create an array outside the loop in which you can save the slope information within the loop.
+* You will need to set up you X array with the GPP data and a y-array for time.
 * You will need to consider the fact that the ocean grid cells are masked and ignore them (i.e. do not perform the statistical analysis for these pixels) [Hint: look up masked array functions for how you can check ***if*** a grid cell is masked].
 
 Once you have written out the logic of your algorithm for this assignment, write the code in a jupyter notebook.
