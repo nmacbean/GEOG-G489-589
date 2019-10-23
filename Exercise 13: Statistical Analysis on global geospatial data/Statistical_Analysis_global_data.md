@@ -14,3 +14,5 @@ Once you have written out the logic of your algorithm for this assignment, write
 When you have finished performing the statistical analysis for every land grid cell, plot your results using imshow() (or using the geographic mapping functions in Cartopy if you wish) and add a colorbar and title. Remember to save your jupyter notebook with the figure before submitting to Canvas.
 
 **The deadline for this in-class exericse in Sunday 27th October at 11:59pm.**
+
+*If you are very familiar with Python and complete the task quickly, investigate/search for how you might perform this analysis without using for loops in this way. You may add anything you test to your Jupyter Notebook with your submission.*
