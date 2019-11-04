@@ -6,5 +6,5 @@ In today's class our guest lecturer Rubaya Pervin will be talking through the me
 
 In Wednesday's class we'll be doing an in-class exercise to practice the image classification using KMeans clustering.
 
-Monday's homework will to be to complete the DataCamp tutorial on "lustering for Dataset Exploration: (Chapter 1) of the Unsupervised Learning Module: https://www.datacamp.com/courses/unsupervised-learning-in-python. This will help you to become more familiar with the KMeans method before Wednesday's in-class exercise.
+Today's (Monday's) homework is to complete the DataCamp tutorial on "lustering for Dataset Exploration: (Chapter 1) of the Unsupervised Learning Module: https://www.datacamp.com/courses/unsupervised-learning-in-python. This will help you to become more familiar with the KMeans method before Wednesday's in-class exercise.
 
