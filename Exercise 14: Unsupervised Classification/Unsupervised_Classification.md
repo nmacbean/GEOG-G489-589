@@ -14,6 +14,25 @@ In today's exercise you will follow the classification steps taught in the lectu
 
 ![santa rita](2018_SRER_2_514000_3519000_image.png)
 
-The data have already been cleaned as described on Monday (removing missing and negative numbers, cleaning the bad/noisy bands of information). They are provided in the tif in the data folder Follow the steps below to complete the exercise and then answer the following questions.
+The data have already been cleaned following the steps described on Monday (removing missing and negative numbers, cleaning the bad/noisy bands of information). The cleaned data are provided in this folder on box:  
 
-1. Open the 
+Follow the steps below to complete the exercise and then answer the following questions. Look through the lecture notes from Monday to help you with the code. You may also want to look back to Exercise 10 on GDAL to help you with how the GDAL commands are structured
+
+1. Open the file using the gdal open file command
+2. Then read in the array to the variable data with the gdal command ReadAsArray.
+3. Reshape your data so they correspond to the dimensions we need for the sklearn KMeans clustering algorithm (slide 17 of the powerpoint).   
+For this step, it would be useful to refer to the sklearn kmeans clustering method manual page (see above). If you scroll down to the methods "fit" and "fit_predict" you will see that the same of the array we give to the method (X on the manual page) needs to have the dimensions of "nsamples" and "nfeatures".  
+Recall from what we have learned about Sklean so far that the nsamples is the number of observations we have of each "feature". The features are essentially the different types of information we will use to form the clusers.  
+In this case, the features are the different hyperspectral bands containing reflectance information from different parts of the electromagnetic spectrum (read the links on hyperspectral data from the lecture if you would like to learn more). The nsamples are the information from both the rows and columns - therefore, we need to collapse the rows and columns from 2 dimensions into 1 dimension containing all the rows and columns (again, see slide 17 and the class on statistical analysis in Python for how to do this).
+4. Now you have reshaped your data, you will be able to perform the KMeans clustering algorithm following the steps shown in slide 16 (also 18 and 19). Repeat the classification for 2, 3 and 4 clusters.
+5. Now plot your result using plt.imshow (see slide 20 of the lecture).
+6. **Once you have completed the classification and plotted the results for 2, 3 and 4 clusters, answer the questions below.**
+
+Using the camera image provided above:
+i. Which land cover/vegetation classes do you think each cluster corresponds to in your "2 cluster" classification?
+ii. Which land cover/vegetation classes do you think each cluster corresponds to in your "3 cluster" classification?
+iii. Which land cover/vegetation classes do you think each cluster corresponds to in your "4 cluster" classification?
+iv. Which number of clusters do you think is most appropriate for classifying the different cover types at this site?
+
+That's it, you're done for this in-class exercise. Complete all your code in a Jupyter Notebook and upload it by the start of next class.
+
