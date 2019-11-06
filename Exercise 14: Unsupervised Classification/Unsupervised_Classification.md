@@ -16,7 +16,7 @@ In today's exercise you will follow the classification steps taught in the lectu
 
 The data have already been cleaned following the steps described on Monday (removing missing and negative numbers, cleaning the bad/noisy bands of information). The cleaned data are in a file called "2018_SRER_2_514000_3519000_hyperspectral_cleaned.tif". Due to the size of the file, it is provided in this folder on box: https://iu.box.com/s/6az0ez3s9u6jx6pimd3l7p1blc2sojli
 
-As detailed in the lecture on Monday, there are three dimensions in the data corresponding to [nrows, ncols, nbands], where nbands is the number of (cleaned) hyperspectral bands.
+As detailed in the lecture on Monday, there are three dimensions in the data corresponding to [nbands, nrows, ncols], where nbands is the number of (cleaned) hyperspectral bands. *Note, the order of the dimensions is different from the lecture slides.* There are 360 bands, 1000 rows and 1000 columns.
 
 Follow the steps below to complete the exercise and then answer the following questions. Look through the lecture notes from Monday to help you with the code. You may also want to look back to Exercise 10 on GDAL to help you with how the GDAL commands are structured
 
@@ -24,7 +24,15 @@ Follow the steps below to complete the exercise and then answer the following qu
 
 **ii.** Then read in the array to the variable data with the gdal command ReadAsArray. 
 
-**iii.** Reshape your data so they correspond to the dimensions we need for the sklearn KMeans clustering algorithm (slide 17 of the powerpoint).    
+**iii.** Reshape your data so they correspond to the dimensions we need for the sklearn KMeans clustering algorithm (this is similar to slide 17 but because the dimensions are different we need to use:
+
+**data.reshape((np.shape(data)[0], -1))
+
+NOTE: We then need to transpose the data so the dimension order matches the way sklearn wants us to input the data (with nsamples and nfeatures - see below. For this, we use the command:
+
+**data = np.transpose(data)**
+
+Print the shape of the data before and after each step so you can understand what is happening in each step. 
 
 For this step, it would be useful to refer to the sklearn kmeans clustering method manual page (see above). If you scroll down to the methods "fit" and "fit_predict" you will see that the same of the array we give to the method (X on the manual page) needs to have the dimensions of "nsamples" and "nfeatures". 
 
@@ -36,7 +44,7 @@ The nsamples are the information from both the rows and columns - therefore, we 
 
 **iv.** Now you have reshaped your data, you will be able to perform the KMeans clustering algorithm following the steps shown in slide 16 (also 18 and 19). Repeat the classification for 2, 3 and 4 clusters.  
 
-**v.** Now plot your result using plt.imshow (see slide 20 of the lecture).  
+**v.** Now plot your result using plt.imshow (see slide 20 of the lecture) Note that you will have to reshape your data again to get the data into .  
 
 **vi. Once you have completed the classification and plotted the results for 2, 3 and 4 clusters, answer the questions below.**. 
 
