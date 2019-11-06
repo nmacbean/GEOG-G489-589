@@ -13,7 +13,7 @@ Today's (Monday's) homework is to complete the DataCamp tutorial on "lustering f
 In today's exercise you will follow the classification steps taught in the lecture on Monday to classifiy hyperspectral dataset from a different part of the Santa Rita Experimental site. The photo below shows the camera image of area we'll be classifying.
 
 ![santa rita](2018_SRER_2_514000_3519000_image.png)
-The camera image has a spatial resolution (spatial footprint) of 10cm, whereas the hyperspectral data has a spatial resolution of 1m.
+The camera image has a spatial resolution (spatial footprint) of 10cm, whereas the hyperspectral data have a spatial resolution of 1m.
 
 The hyperspectral data have already been cleaned following the steps described on Monday (removing missing and negative numbers, cleaning the bad/noisy bands of information). The cleaned data are in a file called "2018_SRER_2_514000_3519000_hyperspectral_cleaned.tif". Due to the size of the file, it is provided in this folder on box: https://iu.box.com/s/6az0ez3s9u6jx6pimd3l7p1blc2sojli
 
