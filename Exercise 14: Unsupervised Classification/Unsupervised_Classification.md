@@ -40,7 +40,7 @@ Recall from what we have learned about Sklean so far that the nsamples is the nu
 
 In this case, the features are the different hyperspectral bands containing reflectance information from different parts of the electromagnetic spectrum (read the links on hyperspectral data from the lecture if you would like to learn more).  
 
-The nsamples are the information from both the rows and columns - therefore, we need to collapse the rows and columns from 2 dimensions into 1 dimension containing all the rows and columns (again, see slide 17 and the class on statistical analysis in Python for how to do this).  
+The nsamples are the information from both the rows and columns - therefore, we need to collapse the rows and columns from 2 dimensions into 1 dimension containing all the rows and columns (note we did something similar in the statistical analysis in Python).  
 
 **iv.** Now you have reshaped your data, you will be able to perform the KMeans clustering algorithm following the steps shown in slide 16 (also 18 and 19). Repeat the classification for 2, 3 and 4 clusters.  
 
