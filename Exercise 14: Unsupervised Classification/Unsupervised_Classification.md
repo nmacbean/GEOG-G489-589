@@ -26,7 +26,7 @@ Follow the steps below to complete the exercise and then answer the following qu
 
 **iii.** Reshape your data so they correspond to the dimensions we need for the sklearn KMeans clustering algorithm (this is similar to slide 17 but because the dimensions are different we need to use:
 
-**data.reshape((np.shape(data)[0], -1))
+**data = data.reshape((np.shape(data)[0], -1))**
 
 NOTE: We then need to transpose the data so the dimension order matches the way sklearn wants us to input the data (with nsamples and nfeatures - see below. For this, we use the command:
 
