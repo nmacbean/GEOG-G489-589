@@ -12,7 +12,7 @@ Today's (Monday's) homework is to complete the DataCamp tutorial on "lustering f
 
 In today's exercise you will follow the classification steps taught in the lecture on Monday to classifiy hyperspectral dataset from a different part of the Santa Rita Experimental site. The photo below shows the camera image of area we'll be classifying.
 
-![santa rita](/Users/nmacbean/TEACHING/IU/Fall2019/Fall2019_G489_589/data/hyperspectral/santa_rita/2018_SRER_2_514000_3518000_image.tif)
+![santa rita](2018_SRER_2_514000_3519000_image.png)
 
 The data have already been cleaned as described on Monday (removing missing and negative numbers, cleaning the bad/noisy bands of information). They are provided in the tif in the data folder Follow the steps below to complete the exercise and then answer the following questions.
 
