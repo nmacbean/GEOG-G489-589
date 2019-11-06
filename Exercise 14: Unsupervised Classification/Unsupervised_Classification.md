@@ -10,7 +10,7 @@ Today's (Monday's) homework is to complete the DataCamp tutorial on "lustering f
 
 ## In-class exercise: KMeans Clustering for unsupervised classification at the Santa Rita site
 
-In today's exercise you will follow the classification steps taught in the lecture on Monday to classifiy hyperspectral dataset from a different part of the Santa Rita Experimental site. The photo below shows the camera image of area we'll be classifying.
+In today's exercise you will follow the classification steps taught in the lecture on Monday to classifiy hyperspectral dataset from a different part of the Santa Rita Experimental site. These data were collected from the NEON airborne platform in August 2018. The photo below shows the camera image of area we'll be classifying.
 
 ![santa rita](2018_SRER_2_514000_3519000_image.png)
 The camera image has a spatial resolution (spatial footprint) of 10cm, whereas the hyperspectral data have a spatial resolution of 1m.
