@@ -14,7 +14,7 @@ In today's exercise you will follow the classification steps taught in the lectu
 
 ![santa rita](2018_SRER_2_514000_3519000_image.png)
 
-The data have already been cleaned following the steps described on Monday (removing missing and negative numbers, cleaning the bad/noisy bands of information). The cleaned data are in a file called "2018_SRER_2_514000_3519000_hyperspectral_cleaned.tif". Due to the size of the file, it is provided in this folder on box: 
+The data have already been cleaned following the steps described on Monday (removing missing and negative numbers, cleaning the bad/noisy bands of information). The cleaned data are in a file called "2018_SRER_2_514000_3519000_hyperspectral_cleaned.tif". Due to the size of the file, it is provided in this folder on box: https://iu.box.com/s/6az0ez3s9u6jx6pimd3l7p1blc2sojli
 
 As detailed in the lecture on Monday, there are three dimensions in the data corresponding to [nrows, ncols, nbands], where nbands is the number of (cleaned) hyperspectral bands.
 
