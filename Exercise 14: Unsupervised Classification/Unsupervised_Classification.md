@@ -20,7 +20,7 @@ As detailed in the lecture on Monday, there are three dimensions in the data cor
 
 Follow the steps below to complete the exercise and then answer the following questions. Look through the lecture notes from Monday to help you with the code. You may also want to look back to Exercise 10 on GDAL to help you with how the GDAL commands are structured
 
-i. Open the file using the gdal open file command.  
+i. Download the data from the box folder and open the file using the gdal open file command. (Don't forget to import all the libraries you will need first).
 
 ii. Then read in the array to the variable data with the gdal command ReadAsArray. 
 
