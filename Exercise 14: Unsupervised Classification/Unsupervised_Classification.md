@@ -52,6 +52,7 @@ The nsamples are the information from both the rows and columns - therefore, we 
 
 
 *Using the camera image provided above, answer these questions in your Jupyter Notebook:*
+
 If you need to zoom in to compare the classification and the camera image - select a subset of your data with simple indexing BUT beware that because the resolution of your camera image is 10cm (0.1m) and the resolution of the hyperspectral classification is 1m, the extent of your subset will need to be 10x larger for the camera image. E.g.:  
 labels2_zoom = labels2[0:100,0:100]  
 camera_image = camera_image[0:1000,0:1000]. 
