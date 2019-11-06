@@ -36,7 +36,7 @@ v. Now plot your result using plt.imshow (see slide 20 of the lecture).
 vi. **Once you have completed the classification and plotted the results for 2, 3 and 4 clusters, answer the questions below.**. 
 
 
-*Using the camera image provided above:*
+*Using the camera image provided above, answer these questions in your Jupyter Notebook:*
 1. Which land cover/vegetation classes do you think each cluster corresponds to in your "2 cluster" classification?
 2. Which land cover/vegetation classes do you think each cluster corresponds to in your "3 cluster" classification?
 3. Which land cover/vegetation classes do you think each cluster corresponds to in your "4 cluster" classification?
