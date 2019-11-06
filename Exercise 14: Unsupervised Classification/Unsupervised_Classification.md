@@ -55,7 +55,7 @@ The nsamples are the information from both the rows and columns - therefore, we 
 
 If you need to zoom in to compare the classification and the camera image - select a subset of your data with simple indexing BUT beware that because the resolution of your camera image is 10cm (0.1m) and the resolution of the hyperspectral classification is 1m, the extent of your subset will need to be 10x larger for the camera image. E.g.:  
 **labels2_zoom = labels2[0:100,0:100]**  
-**camera_image = camera_image[0:1000,0:1000]**  
+**camera_image_zoom = camera_image[0:1000,0:1000]**  
 You can read in the camera image using plt.imread(camera_image_filename), which is "2018_SRER_2_514000_3519000_image.tif" and is in the box folder.
 
 Questions:  
