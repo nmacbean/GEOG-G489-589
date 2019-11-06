@@ -50,7 +50,14 @@ The nsamples are the information from both the rows and columns - therefore, we 
 **vi. Once you have completed the classification and plotted the results for 2, 3 and 4 clusters, answer the questions below.**. 
 
 
+
 *Using the camera image provided above, answer these questions in your Jupyter Notebook:*
+If you need to zoom in to compare the classification and the camera image - select a subset of your data with simple indexing BUT beware that because the resolution of your camera image is 10cm (0.1m) and the resolution of the hyperspectral classification is 1m, the extent of your subset will need to be 10x larger for the camera image. E.g.:  
+labels2_zoom = labels2[0:100,0:100]  
+camera_image = camera_image[0:1000,0:1000]. 
+You can read in the camera image using plt.imread(camera_image_filename), which is "2018_SRER_2_514000_3519000_image.tif" and is in the box folder.
+
+Questions:  
 1. Which land cover/vegetation classes do you think each cluster corresponds to in your "2 cluster" classification?
 2. Which land cover/vegetation classes do you think each cluster corresponds to in your "3 cluster" classification?
 3. Which land cover/vegetation classes do you think each cluster corresponds to in your "4 cluster" classification?
