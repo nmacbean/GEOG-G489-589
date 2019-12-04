@@ -58,7 +58,7 @@ If you need to zoom in to compare the classification and the camera image - sele
 **camera_image_zoom = camera_image[0:1000,0:1000]**  
 You can read in the camera image using plt.imread(camera_image_filename), which is "2018_SRER_2_514000_3519000_image.tif" and is in the box folder.
 
-Questions:  
+Questions (NOTE: state which color and/or which label number corresponds to each vegetation type):  
 1. Which land cover/vegetation classes do you think each cluster corresponds to in your "2 cluster" classification?
 2. Which land cover/vegetation classes do you think each cluster corresponds to in your "3 cluster" classification?
 3. Which land cover/vegetation classes do you think each cluster corresponds to in your "4 cluster" classification?
